@@ -1,0 +1,13 @@
+{
+	"SaveInfo": [
+		{
+			"saveID": "0" ,
+			"userSavedActorWorldLocationType": "FVector"
+			"userSavedActorWorldLocationVal": "(0.0f, 0.0f, 0.0f)"
+		},
+		{
+			"userID": "1" ,
+			"firstname": "abc"
+		}
+	]
+}
