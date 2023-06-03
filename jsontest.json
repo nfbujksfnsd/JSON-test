@@ -1,14 +1,9 @@
 {
 	"SaveInfo": [
 		{
-			"saveID": "0" ,
-			"userSavedActorWorldLocationType": "FVector"
-			"userSavedActorWorldLocationVal": "(0.0f, 0.0f, 0.0f)"
-		},
-		{
-			"saveID": "1" ,
-			"userSavedActorWorldLocationType": "FVector"
-			"userSavedActorWorldLocationVal": "(100.0f, 100.0f, 100.0f)"
+			"saveID":"0" ,
+			"userSavedActorWorldLocationType":"FVector"
+			"userSavedActorWorldLocationVal":"(0.0, 0.0, 0.0)"
 		}
 	]
 }
